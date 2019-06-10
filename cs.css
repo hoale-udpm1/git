@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+body { background:#666}
+#all { width:1000px; height:1335px; margin:auto}
+* { margin:0px; padding:0px}
+#crl { clear:both}
+/*
+#header { width:1000px; height:126px} */
+
+#nav1 { width:1000px; height:50px; background:#444444; position: absolute;}
+#nav1 ul { list-style-type:none; padding-left:50px}
+#nav1 ul li { display:inline; width:150px; height:50px; line-height:60px; float:left; background:#444444; text-align:center;}
+#nav1 ul li a { color:#fff; text-decoration:none;}
+#nav1 ul li a:hover { color:#000;}
+#nav1 ul li:hover { background:#bababa}
+
+#navl-left{
+	     width: 1000px; height: 50px; position: relative;
+}
+
+#bot { width:1000px; height:120px;position: absolute;}
+   #tim {position: relative; margin: auto; width: 570px; height: 50px;}
+	#input { width:100px; height:38px; float:left; margin-top:50px;}
+	img { float:left} 
+#na-v{width:1000pc; height:120px; float:left}
+#na-v ul { list-style-type:none; padding-left:150px}
+#na-v ul li { display:inline; width:150px; height:30px; line-height:40px; float:left; background:#444444; text-align:center;}
+#na-v ul li a { color:#fff; text-decoration:none}
+#na-v ul li a:hover { color:#000}
+#na-v ul li:hover { background:#bababa}
+
+		
+
+
+#center { width:1000px; height:800px;}
+		#center table { font-weight:bold}
+		#center font { color:#F00}
+		
+		
+		#footer { width:960px; height:200px}
+			#nav2 { width:945px; height:30px;; background:#444444; margin-left:15px}
+			#nav2 ul { list-style-type:none; padding-left:170px}
+			#nav2 ul li { display:inline; width:150px; height:30px; line-height:30px; float:left; background:#444444; text-align:center; border-right:1px solid #FFF}
+			#nav2 ul li a { color:#fff; text-decoration:none}
+			#nav2 ul li a:hover { color:#FF0}
